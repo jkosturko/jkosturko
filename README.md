@@ -62,3 +62,7 @@ My company, [Intent Gateway](https://intentgateway.ai), makes a platform for bui
 ![Hono](https://img.shields.io/badge/Hono-e36002?logo=hono&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003b57?logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white)
+
+## Get in touch
+
+If you'd like to talk about agent failures, or you think I could help you or your organization make agents safe to ship, reach me on [LinkedIn](https://www.linkedin.com/in/jessicakosturko/).
